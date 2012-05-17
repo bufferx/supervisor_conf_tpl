@@ -1,4 +1,2 @@
-supervisor_conf
+supervisor config example
 ===============
-
-supervisor conf example
